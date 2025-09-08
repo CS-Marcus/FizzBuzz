@@ -1,5 +1,8 @@
-import lab1.FizzBuzz;
+package lab1;
 
-public static void main(String[] args) {
-    FizzBuzz.doFizzBuzz(5);
+
+public class Main{
+    public static void main(String[] args) {
+        FizzBuzz.doFizzBuzz(5);
+    }
 }
